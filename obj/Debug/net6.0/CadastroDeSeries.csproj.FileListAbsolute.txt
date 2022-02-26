@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\C\CadastroDeSeries\CadastroDeSeries\bin\Debug\net6.0\CadastroDeSeries.exe
+C:\Users\ASUS\Desktop\C\CadastroDeSeries\CadastroDeSeries\bin\Debug\net6.0\CadastroDeSeries.deps.json
+C:\Users\ASUS\Desktop\C\CadastroDeSeries\CadastroDeSeries\bin\Debug\net6.0\CadastroDeSeries.runtimeconfig.json
+C:\Users\ASUS\Desktop\C\CadastroDeSeries\CadastroDeSeries\bin\Debug\net6.0\CadastroDeSeries.dll
+C:\Users\ASUS\Desktop\C\CadastroDeSeries\CadastroDeSeries\bin\Debug\net6.0\ref\CadastroDeSeries.dll
+C:\Users\ASUS\Desktop\C\CadastroDeSeries\CadastroDeSeries\bin\Debug\net6.0\CadastroDeSeries.pdb
+C:\Users\ASUS\Desktop\C\CadastroDeSeries\CadastroDeSeries\obj\Debug\net6.0\CadastroDeSeries.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\C\CadastroDeSeries\CadastroDeSeries\obj\Debug\net6.0\CadastroDeSeries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\C\CadastroDeSeries\CadastroDeSeries\obj\Debug\net6.0\CadastroDeSeries.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\C\CadastroDeSeries\CadastroDeSeries\obj\Debug\net6.0\CadastroDeSeries.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\C\CadastroDeSeries\CadastroDeSeries\obj\Debug\net6.0\CadastroDeSeries.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\C\CadastroDeSeries\CadastroDeSeries\obj\Debug\net6.0\CadastroDeSeries.dll
+C:\Users\ASUS\Desktop\C\CadastroDeSeries\CadastroDeSeries\obj\Debug\net6.0\ref\CadastroDeSeries.dll
+C:\Users\ASUS\Desktop\C\CadastroDeSeries\CadastroDeSeries\obj\Debug\net6.0\CadastroDeSeries.pdb
+C:\Users\ASUS\Desktop\C\CadastroDeSeries\CadastroDeSeries\obj\Debug\net6.0\CadastroDeSeries.genruntimeconfig.cache
